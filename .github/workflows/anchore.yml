@@ -15,4 +15,4 @@ jobs:
         uses: actions/upload-artifact@v1.0.0
         with:
          name: AnchoreReports
-         path: /.github/workflows/anchore-reports
+         path: ./.github/workflows/anchore-reports
