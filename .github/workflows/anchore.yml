@@ -16,3 +16,4 @@ jobs:
         with:
          name: AnchoreReports
          path: ./.github/workflows/anchore-reports
+          cp -v /home/runner/work/anchore-upload-artifact/anchore-upload-artifact/.github/workflows/anchore-reports ./.github/workflows/anchore-reports
